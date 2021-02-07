@@ -1,0 +1,4 @@
+baseURL = "https://musicdominiguess.vercel.app"
+languageCode = "en-us"
+title = "Free PDF Sheet Music"
+theme = "hugo-theme-minos"
